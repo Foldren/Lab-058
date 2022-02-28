@@ -1,0 +1,5 @@
+url: "https://newtechaudit.ru"
+#url: "https://pythobyte.com/"
+path: "downloads"
+min-size: 20000 #минимальный размер изображения в байтах
+max-urls: 15 #количество дочерних
